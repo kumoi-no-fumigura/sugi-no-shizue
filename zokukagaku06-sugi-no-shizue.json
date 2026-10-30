@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sugi-no-shizue",
  "yomi": "すぎのしずえ",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸中期",
+  "author": "荷田蒼生子（1722〜1786）",
+  "desc": "伏見稲荷の荷田家に生まれ、江戸に出て宮仕えした女流歌人荷田蒼生子の家集。父の教えを守り古典によく通じたと序にいう。文詞の部はここに収めない。"
+ },
  "editions": [
   {
    "pid": "993384",
